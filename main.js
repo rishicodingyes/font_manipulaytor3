@@ -18,7 +18,7 @@ function draw() {
     background('#969A97');
     textSize(difference);
     fill("red");
-    text('eric',40,400);
+    text('rishi',40,400);
 }
 function gotPoses(results)
 {
